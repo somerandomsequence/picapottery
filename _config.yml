@@ -4,7 +4,7 @@ description: 'A Charitable Micropottery in Boulder, Colorado, USA'
 url: 'http://picapottery.com'
 baseurl: ''
 profilepic: '/images/logo-white.png'
-bkimage: '/images/bk2.jpg'
+bkimage: '/images/bk2.smaller.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: '4ce6458bb7.js'
 insta_username: picapottery
