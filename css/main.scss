@@ -58,3 +58,29 @@ pre.highlight code,
   //border: 3px solid #fff;
   //border-radius:100%;
 }
+
+div#magpies {
+  font-weight: bold;
+  margin-bottom: 1em;
+  color: #777777;
+  font-size: 20pt;
+  font-family: 'Garamond', serif;
+  font-style: italic;
+}
+
+div#magpies a{
+  color: #777777;
+}
+
+div#aboutimages{
+  float: right;
+  margin-bottom: 1em;
+  margin-left: 1em;
+  margin-right: 2em;
+}
+
+.about-picture{
+  width: 200px;
+  border-radius: 10%;
+}
+
