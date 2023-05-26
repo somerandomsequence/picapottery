@@ -27,6 +27,8 @@ $(document).ready(function () {
     if (currentWidth < 960) {
       $('.panel-cover').addClass('panel-cover--collapsed')
       $('.content-wrapper').addClass('animated slideInRight')
+      $('.btn-mobile-menu').css('max-width',currentWidth)
+      $('.aboutimages').css('width','40%')
     } else {
       $('.panel-cover').css('max-width', currentWidth)
       $('.panel-cover').animate({'max-width': '530px', 'width': '40%'}, 400, swing = 'swing', function () {})
