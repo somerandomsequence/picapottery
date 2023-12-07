@@ -31,6 +31,16 @@
               </li>
             {% endif %}
 
+            {% if site.threads_username %}
+              <!-- Instagram -->
+              <li class="navigation__item">
+                <a href="https://www.threads.net/@{{ site.insta_username }}" title="{{ site.insta_username }} on Threads" target="_blank">
+                  <i class="fa-brands fa-threads"></i>
+                  <span class="label">Threads</span>
+                </a>
+              </li>
+            {% endif %}
+		    
             {% if site.email %}
               <!-- Email -->
               <li class="navigation__item">
