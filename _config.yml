@@ -7,6 +7,8 @@ profilepic: '/images/logo-white.png'
 bkimage: '/images/bk2.smaller.jpg'
 font_awesome: '4ce6458bb7.js'
 insta_username: picapottery
+threads_username: picapottery
+etsy_username: picapottery
 email: caleb@picapottery.com
   
 # Build settings
